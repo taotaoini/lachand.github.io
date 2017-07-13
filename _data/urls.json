@@ -1,0 +1,33 @@
+[
+  {
+    "text": "Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "Publications",
+    "url": "/publications",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Teaching",
+    "url": "/teaching",
+    "icon": "fa-leanpub"
+  },
+  {
+    "text": "CV",
+    "url": "/CV_Valentin_Lachand_English.pdf",
+    "icon": "fa-graduation-cap",
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/lachand",
+    "icon": "fa-github"
+  }
+]

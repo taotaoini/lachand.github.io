@@ -1,0 +1,11 @@
+[
+	{
+		"name": "LikertScales",
+		"image": "likertscale.jpg",
+		"demo": "http://bl.ocks.org/lachand/raw/f08b972040b23388b8f3a211e5d8e920/",
+		"git" : "https://github.com/sical/LikertScales",
+		"date": "",
+		"tags": ["Visualisation","Generator"]
+	},
+
+]

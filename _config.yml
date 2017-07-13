@@ -1,0 +1,28 @@
+title: Valentin Lachand
+description: 
+author: Valentin Lachand
+logo: /static/img/picture_lachand.jpg
+github: https://github.com/lachand/
+about: PhD student in Computer Science
+
+baseurl: ""
+url: ""
+
+allowsearch: true
+
+#disqus_shortname: aboutashu
+#google_analytics: UA-72862926-1
+
+share:
+  #twitter_username: \#
+  #fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
