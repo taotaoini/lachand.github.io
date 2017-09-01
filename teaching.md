@@ -3,5 +3,7 @@ layout: default
 title: Teaching
 permalink: /teaching
 ---
+# 2017-2018
 
-Normaly I will start teaching in September 2017 at Université Claudre Bernard Lyon 1.
+## [M1if02 Gestion de projet et génie logiciel](http://tabard.fr/cours/2016/mif02/)
+Course under the direction of Aurélien Tabard
