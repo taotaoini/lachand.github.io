@@ -24,10 +24,12 @@
     "text": "CV",
     "url": "/CV_Valentin_Lachand_English.pdf",
     "icon": "fa-graduation-cap",
+    "target": "blank"
   },
   {
     "text": "Github",
     "url": "https://github.com/lachand",
-    "icon": "fa-github"
+    "icon": "fa-github",
+    "target": "blank"
   }
 ]
