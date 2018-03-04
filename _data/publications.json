@@ -10,6 +10,16 @@
         "doi": "http://dx.doi.org/10.1145/3170427.3188484"
 	},
 	{
+		"international": "True",
+		"authors": "Jalal, G., Lachand, V., Tabard, A., and Michel, C.",
+		"date": "To be published",
+		"title" : "Design, Adjust and Reuse – How Teachers Script Pedagogical Activities",
+		"conference": "ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+		"pages": "",
+        "pdf": "",
+        "doi": ""
+},
+	{
 		"international": "False",
 		"authors": "Lachand, V., Serna, A., Tabard, A., and Marty, J. C.",
 		"date": "2016-10-25",
