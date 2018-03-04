@@ -1,5 +1,15 @@
 [
 	{
+		"international": "True",
+		"authors": "Lachand, V., Jalal, G., Tabard, A., and Michel, C.",
+		"date": "To be published",
+		"title" : "Toccata: an Activity Centric Orchestration System for Education",
+		"conference": "ACM CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+		"pages": "",
+        "pdf": "https://hal.archives-ouvertes.fr/hal-01716466/document",
+        "doi": "http://dx.doi.org/10.1145/3170427.3188484"
+	},
+	{
 		"international": "False",
 		"authors": "Lachand, V., Serna, A., Tabard, A., and Marty, J. C.",
 		"date": "2016-10-25",
