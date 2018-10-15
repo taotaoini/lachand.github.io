@@ -7,5 +7,13 @@
 		"date": "",
 		"tags": ["Visualisation","Generator"]
 	},
+	{
+		"name": "Toccata",
+		"image": "toccata.jpg",
+		"demo": "https://demo.toccata.education/#/login",
+		"git" : "https://github.com/lachand/Toccata",
+		"date": "",
+		"tags": ["Education","HCI","Activity Based Computing","Orchestration"]
+	},
 
 ]
