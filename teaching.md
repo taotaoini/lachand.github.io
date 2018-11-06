@@ -5,10 +5,8 @@ permalink: /teaching
 ---
 # 2018-2019
 
-## Conception des systèmes d'information et génie logiciel
-Cours 1 : Contexte, méthodes et processus [pdf à jour](https://docs.google.com/presentation/d/1kg427ydmwONHsKhTn5oLB8CqgAPc4jVN6e11_HVXn6Y/export/pdf)
-Cours 1 bis : Processus unifié [pdf à jour](https://docs.google.com/presentation/d/1GgBWk3VaYu_dMciIW1-sjdM5f664ZPhUJp7qi-TTMJw/export/pdf)
-
+## [Conception des systèmes d'information et génie logiciel](https://valentin.lachand.net/teaching/2019/cci-uml-2018)
+Course co-animated with [Alix Ducros](https://krlx.fr)
 
 # 2017-2018
 
