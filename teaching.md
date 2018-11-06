@@ -5,7 +5,7 @@ permalink: /teaching
 ---
 # 2018-2019
 
-## [Conception des systèmes d'information et génie logiciel](https://valentin.lachand.net/teaching/2019/cci-uml-2018)
+## [Conception des systèmes d'information et génie logiciel](https://valentin.lachand.net/teaching/2018/cci-uml-2018)
 Course co-animated with [Alix Ducros](https://krlx.fr)
 
 # 2017-2018
