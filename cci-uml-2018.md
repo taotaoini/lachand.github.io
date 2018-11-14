@@ -8,8 +8,8 @@ permalink: /teaching/2018/cci-uml-2018
 ## Présentations des cours
 * Cours 1 : Contexte, méthodes et processus [pdf à jour](https://docs.google.com/presentation/d/1kg427ydmwONHsKhTn5oLB8CqgAPc4jVN6e11_HVXn6Y/export/pdf)
 * Cours 1 bis : Processus unifié [pdf à jour](https://docs.google.com/presentation/d/1GgBWk3VaYu_dMciIW1-sjdM5f664ZPhUJp7qi-TTMJw/export/pdf)
-* Cours 2 : Introduction à UML
-* Cours 2 bis : UML, Cas d’Utilisation
+* Cours 2 : Introduction à UML [pdf à jour](https://docs.google.com/presentation/d/1j8s08sCK-dB-zXgtpRXP0lpTAq-72s7eCO6Kk25Q6LI/export/pdf)
+* Cours 2 bis : UML, Cas d’Utilisation [pdf à jour](https://docs.google.com/presentation/d/19nSOHqYMpRx5PzdSEk60U7oVYX3Nikz8lHn4sKjVrEU/export/pdf)
 * Cours 3 : UML, Diagrammes Statiques
 * Cours 4 : UML, Diagrammes Dynamiques
 * Cours 5 : Méthodes agiles
