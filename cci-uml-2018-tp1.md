@@ -35,6 +35,7 @@ Le TP peut se faire seul ou en binôme.
 Le rendu se fait en deux fois :
 1. v1.0 en fin de TP à 18h il est possible d’avoir terminé à ce moment là : [Formulaire Google Forms v1.0](https://docs.google.com/forms/d/e/1FAIpQLSdSvanu1zhsrkNuwxw4PYNGi0J7pSnNrBuqPzAlyW2_MVIQ7w/viewform?usp=sf_link)
 2. v2.0 avant dimanche 2 décembre 22h59 : [Formulaire Google Forms v2.0](https://docs.google.com/forms/d/e/1FAIpQLSczKyjeIjfIxAbptMzon6hVYq4KIYkegzqlmzT0rzRQJaEWKQ/viewform?usp=sf_link)
+
 L’évaluation se fera à 75% sur la v1, la v2 permettra de finaliser/nettoyer le TP.
 
 L’architecture peut prendre des formes assez diverses, des rendus trop similaire entre groupes seront sanctionnés.
