@@ -24,7 +24,7 @@ Puis modéliser leurs relations les unes aux autres.
 
 Penser à abstraire/généraliser les classes qui ont des parties communes au besoin.
 
-On utilisera [draw.io](https://wwww.draw.io) pour dessiner les diagrammes.
+On utilisera [draw.io](https://www.draw.io) pour dessiner les diagrammes.
 
 ## Rendu
 
