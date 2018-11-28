@@ -4,9 +4,9 @@ title: CCI UML 2018 - TP1
 permalink: /teaching/2018/cci-uml-2018/cci-uml-2018-tp1
 ---
 
-#TP 1 UML - Diagrammes Statiques
+# TP 1 UML - Diagrammes Statiques
 
-##Rappel du contexte
+## Rappel du contexte
 
 Vous venez de perdre vos clés dans le bus et avez l’idée de développer un service d’objet trouvé sur Internet : fffound. Le service fournit des portes clés et des autocollants avec un identifiant et un QRcode unique à ses utilisateurs. Les utilisateurs peuvent coller les autocollants sur leurs objets (par exemple un téléphone) ou attacher leurs clés au porte clés.
 
@@ -14,7 +14,7 @@ Ils doivent ensuite lier ces identifiants à leurs comptes, pour que des personn
 
 Pour ce TP, on considèrera que fffound offre une page de discussion/chat permettant aux propriétaires et découvreurs d’échanger des messages/photos au sein de l’application.
 
-##TP Diagramme de classe
+## TP Diagramme de classe
 
 Décrire au travers d’un diagramme de classe comment sont organisées les données du service fffound.
 
@@ -26,7 +26,7 @@ Penser à abstraire/généraliser les classes qui ont des parties communes au be
 
 On utilisera [draw.io](https://wwww.draw.io) pour dessiner les diagrammes.
 
-##Rendu
+## Rendu
 
 Rappelez-vous que les TPs compterons pour 50% de la note.
 
