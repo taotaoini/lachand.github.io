@@ -1,3 +1,9 @@
+---
+layout: default
+title: CCI UML 2018 - TP1
+permalink: /teaching/2018/cci-uml-2018/cci-uml-2018-tp1
+---
+
 #TP 1 UML - Diagrammes Statiques
 
 ##Rappel du contexte
@@ -18,7 +24,7 @@ Puis modéliser leurs relations les unes aux autres.
 
 Penser à abstraire/généraliser les classes qui ont des parties communes au besoin.
 
-On utilisera draw.io pour dessiner les diagrammes.
+On utilisera [draw.io](https://wwww.draw.io) pour dessiner les diagrammes.
 
 ##Rendu
 
