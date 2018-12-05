@@ -15,7 +15,7 @@ Pour chaque étape décrite ci-dessous, construisez un diagramme de séquences (
 
 Penser à bien utiliser les fragments d’interaction vus en cours.
 
-On utilisera [draw.io](draw.io) pour construire les diagrammes.
+On utilisera [draw.io](https://www.draw.io) pour construire les diagrammes.
 
 ### Saisie du code et connexion
 Le client insère sa carte. La machine vérifie la validité de la carte et demande alors le code au client. Le client rentre son code. Si le code saisi correspond à celui qui est enregistré sur la carte, la machine établit une connexion avec le système de groupement des banques, qui répond à la machine si l’utilisateur est client de la banque propriétaire du guichet, ou d’une autre banque, et le montant que l’utilisateur peut retirer. Sinon, le code est redemandé. La machine peut éjecter la carte et mettre fin à l’utilisation pour différentes raisons : si la carte n’est pas valide (ex: périmée), si le code saisi n’est toujours pas bon au bout de 3 essais, ou si le système de groupement de banques informe que le client ne peut plus effectuer d’opération (interdit bancaire, découvert trop important, …)
