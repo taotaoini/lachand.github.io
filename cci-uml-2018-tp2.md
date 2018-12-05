@@ -33,13 +33,15 @@ L’interface affiche l’écran de retrait. Il propose au client des montants p
 La machine délivre les billets. Si le client ne les récupère pas au bout d’un certain délai T2, ils sont avalés. Le débit est alors annulé. Si le client les récupère, le débit du compte est confirmé et la carte est éjectée.
 
 # Rendu
+## Rendu
 Les TPs compterons pour 50% de la note.
 
 Le TP peut se faire seul ou en binôme.
 
 Le rendu se fait en deux fois :
 
-v1 en fin de TP à 18h 
-v2 
+[v1 en fin de TP à 18h](https://docs.google.com/forms/d/e/1FAIpQLSe83RoNpQusisLrUy_3O6eyd4Ob0us-rSi6oQS5ElJRb8q3oA/viewform?usp=sf_link)
+
+[v2 à rendre avant dimanche soir](https://docs.google.com/forms/d/e/1FAIpQLSexsGtSZqBpsCTD0IPHc4SPz9UE0LmwXI9cLTTKRWYAc7IhFA/viewform?usp=sf_link)
 
 L’architecture peut prendre des formes assez diverses, des rendus trop similaire entre groupes seront sanctionnés.
