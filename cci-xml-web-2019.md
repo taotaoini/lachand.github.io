@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CCI XML et WEB 2019
+title: CCI XML et Web 2019
 permalink: /teaching/2019/cci-xml-web-2019
 ---
 
