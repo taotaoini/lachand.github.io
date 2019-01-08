@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CCI XML et WEB 2019
-permalink: /teaching/2018/cci-xml-web-2019
+permalink: /teaching/2019/cci-xml-web-2019
 ---
 
 # Resources 
