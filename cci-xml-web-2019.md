@@ -10,8 +10,9 @@ permalink: /teaching/2019/cci-xml-web-2019
 * HTML [pdf à jour](https://docs.google.com/presentation/d/1tZw4uioUspiyqydXgdHRv-Wwo_FALhhIyVfjipw1fDY/export/pdf)
 
 # TPs
-* XML
+* XML [TP1](https://valentin.lachand.net/teaching/2019/cci-xml-web-2019-tp1)
 * HTTP
+* Javascript
 
 # Modalités d'évaluation
 - 50% de la note sur le TP
