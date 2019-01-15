@@ -1,0 +1,26 @@
+---
+layout: default
+title: CCI XML et Web 2019 : TP1
+permalink: /teaching/2019/cci-xml-web-2019-tp1
+---
+
+# Exercice 1 : XML bien formé
+
+Pour chacun des fichiers suivants, déterminez s'il est bien formé en utilisant Altova XMLSpy (Windows), XML Copy Editor (Windows), le validateur du w3c (en ligne) ou xmlvalidation.com/ (en ligne), et corrigez les erreurs.
+
+* Corriger le fichier XML suivant pour qu'il soit bien formé : (contact1.xml)[documents/2019/contact1.xml]
+* Corriger le fichier XML suivant en prenant en compte les changements précédents et en faisant attention aux headers (contact2.xml)[documents/2019/contact2.xml]
+* Corriger le fichier XML suivant (contact3.xml)[documents/2019/contact3.xml] pour qu'il gère les entités, et réponde à la DTD contact.dtd, utiliser aussi le fichier inclus voyages.xml.
+
+# Exercice 2 : XML valide et DTD
+
+Étendre le fichier XML et de la DTD de contact, pour créer un fichier XML (et une DTD) décrivant votre CV. Le cv sera composé d'au moins 3 grandes parties (voir un exemple ici) :
+
+* Information générale (nom et informations de contact)
+* Formation
+* Expérience
+
+Éventuellement rajouter, les compétences, les hobbys et autres catégories judicieuses.
+Rendu
+
+L'exercice 2 (cv xml et dtd) doit être rendu individuellement sur ce Google Form avant dimanche 21 janvier à minuit.
