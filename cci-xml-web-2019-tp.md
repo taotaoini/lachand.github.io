@@ -6,7 +6,7 @@ permalink: /teaching/2019/cci-xml-web-2019-tp
 
 # Exercice 1 : XML bien formé
 
-Pour chacun des fichiers suivants, déterminez s'il est bien formé en utilisant Altova XMLSpy (Windows), XML Copy Editor (Windows), le validateur du w3c [en ligne](http://validator.w3.org/) ou xmlvalidation.com/ [en ligne](http://www.xmlvalidation.com/), et corrigez les erreurs.
+Pour chacun des fichiers suivants, déterminez s'il est bien formé en utilisant https://codebeautify.org/xmlvalidator [en ligne](https://codebeautify.org/xmlvalidator), et corrigez les erreurs.
 
 **Note : pour enregistrer les fichiers .xml utilisez "Clique droit > Enregistrer la cible du lien sous"**
 
