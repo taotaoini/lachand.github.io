@@ -8,9 +8,11 @@ permalink: /teaching/2019/cci-xml-web-2019-tp
 
 Pour chacun des fichiers suivants, déterminez s'il est bien formé en utilisant Altova XMLSpy (Windows), XML Copy Editor (Windows), le validateur du w3c [en ligne](http://validator.w3.org/) ou xmlvalidation.com/ [en ligne](http://www.xmlvalidation.com/), et corrigez les erreurs.
 
+** Note : pour enregistrer les fichiers .dtd et .xml utilisez "Clique droit > Enregistrer la cible du lien sous" **
+
 * Corriger le fichier XML suivant pour qu'il soit bien formé : [contact1.xml](https://valentin.lachand.net/documents/2019/contact1.xml)
 * Corriger le fichier XML suivant en prenant en compte les changements précédents et en faisant attention aux headers [contact2.xml](https://valentin.lachand.net/documents/2019/contact2.xml)
-* Corriger le fichier XML suivant [contact3.xml](https://valentin.lachand.net/documents/2019/contact3.xml) pour qu'il gère les entités, et réponde à la DTD [contact.dtd](https://valentin.lachand.net/documents/2019/contact.dtd), utiliser aussi le fichier inclus voyages.xml.
+* Corriger le fichier XML suivant [contact3.xml](https://valentin.lachand.net/documents/2019/contact3.xml) pour qu'il gère les entités, et réponde à la DTD [contact.dtd](https://valentin.lachand.net/documents/2019/contact.dtd), utiliser aussi le fichier inclus [voyages.xml](https://valentin.lachand.net/documents/2019/voyage.xml).
 
 # Exercice 2 : XML valide et DTD
 
