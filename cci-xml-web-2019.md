@@ -11,7 +11,7 @@ permalink: /teaching/2019/cci-xml-web-2019
 
 # TPs
 * XML [TP1](https://valentin.lachand.net/teaching/2019/cci-xml-web-2019-tp)
-* HTTP
+* HTTP et CSS
 * Javascript
 
 # Modalités d'évaluation
