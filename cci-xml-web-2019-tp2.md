@@ -73,3 +73,4 @@ Intégrer material design pour vous aider dans la mise en page du site. Voici un
   </body>
 </html>
 ```
+Vous pouvez trouver des exemples de sites à l'adresse suivante : https://getmdl.io/templates/index.html
