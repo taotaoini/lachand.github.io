@@ -41,7 +41,7 @@ Github est un service en ligne permettant d'abord de versioner son code et de co
 Github offre la possibilité d'héberger une page Web associée à un projet.
 
 Créer un compte Github. Attention votre nom d'utilisateur apparaitra dans l'URL de votre site sous la forme https://nom.github.io/
-Se rendre sur le repository (projet) suivant https://github.com/lachandv/cv, et cliquer sur le bouton fork, qui importera le projet dans votre compte.
+Se rendre sur le repository (projet) suivant https://github.com/lachand/cv/, et cliquer sur le bouton fork, qui importera le projet dans votre compte.
 Maintenant se rendre dans les Settings (préférences) et activer le mode Github pages associé à la master branch.
 
 Revenir sur votre projet cliquer sur le fichier index.html. Puis sur l'icone "crayon" éditer, copier coller le contenu de votre propre index.html et sauver.
