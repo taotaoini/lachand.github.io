@@ -65,7 +65,7 @@ let progress = document.getElementById('progress_bar').value; // valeur de la ba
 ```
 Votre code doit maintenant ressembler au code suivant :
 ```javascript
-function myScroll() { // Définition de la fonction de scrol
+function myScroll() { // Définition de la fonction de scroll
     var progress = document.getElementById('progress_bar').value; // Valeur de la barre de progression
     
     // Calculez ici la valeur de déplacement à efectuer lors du scroll
