@@ -58,14 +58,18 @@ window.innerHeight // Hauteur de l'écran en pixel
 ## Faites le lien entre la barre de progression et le scroll
 Vous allez maintenant permettre à l'utilisateur de descendre et monter dans votre page à l'aide de la barre de progression.
 
-En ajoutant l'attribut onChange (https://www.w3schools.com/jsref/event_onchange.asp)[https://www.w3schools.com/jsref/event_onchange.asp] à votre barre de progression, faites appel à une fonction que vous définissez dans votre fichier javascript pour naviguer dans la page.
+En ajoutant l'attribut oninput (https://www.w3schools.com/jsref/event_oninput.asp)[https://www.w3schools.com/jsref/event_oninput.asp] à votre barre de progression, faites appel à une fonction que vous définissez dans votre fichier javascript pour naviguer dans la page.
 Pour ceci, vous aller récupérer la valeur en pourcentage de la barre de progression à l'aide du code suivant :
 ```javascript
-var progress = document.getElementById('progress_bar').value; // valeur de la barre de progression
+let progress = document.getElementById('progress_bar').value; // valeur de la barre de progression
 ```
-Vous pouvez ensuite changer la valeur de scroll à l'aide du code suivant :
+Votre code doit maintenant ressembler au code suivant :
 ```javascript
-let value = percentage * window.scrollTop ;
-window.scroll(0, value)
-<button onClick="scroll(0, 100);">click to scroll down 100 pixels</button>
+function myScroll() { // Définition de la fonction de scrol
+    var progress = document.getElementById('progress_bar').value; // Valeur de la barre de progression
+    
+    // Calculez ici la valeur de déplacement à efectuer lors du scroll
+    
+    window.scroll(0, value) // Déplacement de la page de 0 px latéralement et 'value' px horizontalement
+}
 ```
