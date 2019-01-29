@@ -18,7 +18,9 @@ Rappel : pour inclure un fichier javascript dans notre page HTML, nous devons ut
 Pour que l'utilisateur sache quelle est sa progression sur votre CV, vous allez rajouter un barre de progression en haut de votre site.
 
 Regardez la documentation sur le site de material design lite (https://getmdl.io/components/index.html#sliders-section)[https://getmdl.io/components/index.html#sliders-section] pour voir comment configurer le slider.
+
 Votre barre de progression doit avoir l'id suivant : **progress_bar**
+
 Afin que votre slider soit toujours visible, fixez l'élément (https://j-willette.developpez.com/tutoriels/css/position-fixed/)[https://j-willette.developpez.com/tutoriels/css/position-fixed/]
 
 ## Faites le lien entre scroll et barre de progression
