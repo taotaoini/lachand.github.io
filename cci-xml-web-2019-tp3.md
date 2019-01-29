@@ -21,7 +21,16 @@ Regardez la documentation sur le site de material design lite (https://getmdl.io
 
 Votre barre de progression doit avoir l'id suivant : **progress_bar**
 
-Afin que votre slider soit toujours visible, fixez l'élément (https://j-willette.developpez.com/tutoriels/css/position-fixed/)[https://j-willette.developpez.com/tutoriels/css/position-fixed/]
+Afin que votre slider soit toujours visible, fixez l'élément (https://j-willette.developpez.com/tutoriels/css/position-fixed/)[https://j-willette.developpez.com/tutoriels/css/position-fixed/]. Vous pouvez ajouter le code suivant à votre fichier css :
+```css
+.mdl-slider__container {
+    background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+    top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+    width: 100vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+}
+```
 
 ## Faites le lien entre scroll et barre de progression
 Vous allez maintenant lier la barre de progression et le scroll de l'utilisateur. Afin de récupérer l'évènement quand l'utilisateur scroll sur la page et afin de calculer le pourcentage de page visité, aidez vous du lien suivant : (https://www.w3schools.com/jsref/event_onscroll.asp)[https://www.w3schools.com/jsref/event_onscroll.asp]
