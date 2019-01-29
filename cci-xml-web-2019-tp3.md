@@ -17,11 +17,11 @@ Rappel : pour inclure un fichier javascript dans notre page HTML, nous devons ut
 ## Ajoutez une barre de progression à votre site
 Pour que l'utilisateur sache quelle est sa progression sur votre CV, vous allez rajouter un barre de progression en haut de votre site.
 
-Regardez la documentation sur le site de material design lite (https://getmdl.io/components/index.html#sliders-section)[https://getmdl.io/components/index.html#sliders-section] pour voir comment configurer le slider.
+Regardez la documentation sur le site de material design lite [https://getmdl.io/components/index.html#sliders-section](https://getmdl.io/components/index.html#sliders-section) pour voir comment configurer le slider.
 
 Votre barre de progression doit avoir l'id suivant : **progress_bar**
 
-Afin que votre slider soit toujours visible, fixez l'élément (https://j-willette.developpez.com/tutoriels/css/position-fixed/)[https://j-willette.developpez.com/tutoriels/css/position-fixed/]. Vous pouvez ajouter le code suivant à votre fichier css :
+Afin que votre slider soit toujours visible, fixez l'élément [https://j-willette.developpez.com/tutoriels/css/position-fixed/](https://j-willette.developpez.com/tutoriels/css/position-fixed/). Vous pouvez ajouter le code suivant à votre fichier css :
 ```css
 .mdl-slider__container {
     background-color: white !important; /* Met le fond de la barre en blanc */
@@ -33,7 +33,7 @@ Afin que votre slider soit toujours visible, fixez l'élément (https://j-willet
 ```
 
 ## Faites le lien entre scroll et barre de progression
-Vous allez maintenant lier la barre de progression et le scroll de l'utilisateur. Afin de récupérer l'évènement quand l'utilisateur scroll sur la page et afin de calculer le pourcentage de page visité, aidez vous du lien suivant : (https://www.w3schools.com/jsref/event_onscroll.asp)[https://www.w3schools.com/jsref/event_onscroll.asp]
+Vous allez maintenant lier la barre de progression et le scroll de l'utilisateur. Afin de récupérer l'évènement quand l'utilisateur scroll sur la page et afin de calculer le pourcentage de page visité, aidez vous du lien suivant : [https://www.w3schools.com/jsref/event_onscroll.asp](https://www.w3schools.com/jsref/event_onscroll.asp)
 
 Vous devez calculer la valeur en pourcentage du scroll.
 
@@ -58,7 +58,7 @@ window.innerHeight // Hauteur de l'écran en pixel
 ## Faites le lien entre la barre de progression et le scroll
 Vous allez maintenant permettre à l'utilisateur de descendre et monter dans votre page à l'aide de la barre de progression.
 
-En ajoutant l'attribut oninput (https://www.w3schools.com/jsref/event_oninput.asp)[https://www.w3schools.com/jsref/event_oninput.asp] à votre barre de progression, faites appel à une fonction que vous définissez dans votre fichier javascript pour naviguer dans la page.
+En ajoutant l'attribut oninput [https:/www.w3schools.com/jsref/event_oninput.asp](https://www.w3schools.com/jsref/event_oninput.asp) à votre barre de progression, faites appel à une fonction que vous définissez dans votre fichier javascript pour naviguer dans la page.
 Pour ceci, vous aller récupérer la valeur en pourcentage de la barre de progression à l'aide du code suivant :
 ```javascript
 let progress = document.getElementById('progress_bar').value; // valeur de la barre de progression
