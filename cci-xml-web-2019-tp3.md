@@ -26,9 +26,22 @@ Afin que votre slider soit toujours visible, fixez l'élément (https://j-willet
 ## Faites le lien entre scroll et barre de progression
 Vous allez maintenant lier la barre de progression et le scroll de l'utilisateur. Afin de récupérer l'évènement quand l'utilisateur scroll sur la page et afin de calculer le pourcentage de page visité, aidez vous du lien suivant : (https://www.w3schools.com/jsref/event_onscroll.asp)[https://www.w3schools.com/jsref/event_onscroll.asp]
 
-Vous devez calculer la valeur en pourcentage du scroll.
+Vous devez calculer la valeur en pourcentage du scroll à l'aide de l'example suivant :
+```javascript
+let percentage = window.scrollY / window.scrollTop ;
+```
 
-En vous aidant de la documentation de material design lite, modifiez la valeur de la barre de progression en fonction du scroll de l'utilisateur.
+En vous aidant de la documentation de material design lite, modifiez la valeur de la barre de progression en fonction du scroll de l'utilisateur. Votre code pour modifier la barre de progression devrait resembler au code suivant :
+```javascript
+document.getElementById('progress_bar').value = percentage;
+```
+
+Vous pouvez créer des fonctions en javascript de la façon suivante :
+```javascript
+function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+}
+```
 
 ## Faites le lien entre la barre de progression et le scroll
 Vous allez maintenant permettre à l'utilisateur de descendre et monter dans votre page à l'aide de la barre de progression.
@@ -37,4 +50,10 @@ En ajoutant l'attribut onChange (https://www.w3schools.com/jsref/event_onchange.
 Pour ceci, vous aller récupérer la valeur en pourcentage de la barre de progression à l'aide du code suivant :
 ```javascript
 var progress = document.getElementById('progress_bar').value; // valeur de la barre de progression
+```
+Vous pouvez ensuite changer la valeur de scroll à l'aide du code suivant :
+```javascript
+let value = percentage * window.scrollTop ;
+window.scroll(0, value)
+<button onClick="scroll(0, 100);">click to scroll down 100 pixels</button>
 ```
