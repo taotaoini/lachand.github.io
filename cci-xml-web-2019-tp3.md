@@ -55,6 +55,11 @@ document.body.offsetHeight // Hauteur totale de la page en pixel
 window.innerHeight // Hauteur de l'écran en pixel
 ```
 
+Pour corriger les bugs en javascript, vous pouvez vous servir des outils de développement de votre navigateur (Ctrl + maj + i), vous pouvez ensuite aller dans l'onglet 'console'. Pour afficher des éléments dans cette console, notemment vos variables, vous pouvez ajouter le code suivant à votre fichier javascript :
+``` javascript
+console.log(maVariable); // Affiche le contenu de la variable maVariable dans la console du navigateur
+```
+
 ## Faites le lien entre la barre de progression et le scroll
 Vous allez maintenant permettre à l'utilisateur de descendre et monter dans votre page à l'aide de la barre de progression.
 
