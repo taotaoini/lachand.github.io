@@ -78,3 +78,6 @@ function myScroll() { // Définition de la fonction de scroll
     window.scroll(0, value) // Déplacement de la page de 0 px latéralement et 'value' px horizontalement
 }
 ```
+
+# Rendu :
+Vous avez jusqu'à mercredi prochain à minuit pour mettre le lien de votre dépôt Git sur le formulaire suivant : [https://framaforms.org/cci-2019-tp-web-1548835512](https://framaforms.org/cci-2019-tp-web-1548835512)
