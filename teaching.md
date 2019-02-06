@@ -5,6 +5,9 @@ permalink: /teaching
 ---
 # 2018-2019
 
+## [Exploitation de données pour la conception d'outils numériques](https://valentin.lachand.net/teaching/2019/km-2019)
+Intervention at INSA de Lyon about the use of data to design digital tools in a knowledge management course
+
 ## [LaTeX et Overleaf](https://valentin.lachand.net/teaching/2019/latex-2019)
 Intervention at INSA de Lyon about LaTeX and Overleaf for online collaborative edition of LaTeX projects
 
