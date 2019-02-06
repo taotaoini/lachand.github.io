@@ -5,6 +5,9 @@ permalink: /teaching
 ---
 # 2018-2019
 
+## [LaTeX et Overleaf](https://valentin.lachand.net/teaching/2019/latex-2019)
+Intervention at INSA de Lyon about LaTeX and Overleaf for online collaborative edition of LaTeX projects
+
 ## [XML et Web](https://valentin.lachand.net/teaching/2019/cci-xml-web-2019)
 Course for the CCI Master of Université Lyon 1
 
